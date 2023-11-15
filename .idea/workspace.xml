@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849d8014-fead-42e8-b38a-5bab769171ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Cafe/src/main/java/com/example/cafe/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cafe/src/main/java/com/example/cafe/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cafe/src/main/resources/com/example/cafe/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Cafe/src/main/resources/com/example/cafe/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="849d8014-fead-42e8-b38a-5bab769171ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700021358295</updated>
-      <workItem from="1700021360857" duration="3028000" />
+      <workItem from="1700021360857" duration="3063000" />
     </task>
     <servers />
   </component>
